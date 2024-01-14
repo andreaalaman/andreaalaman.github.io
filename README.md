@@ -2,4 +2,4 @@
 
 Welcome to my GitHub Page
 
-<a href=["http://andreaalaman.github.io/GitHubMiniLesson"> GitHub Mini Lesson </a> 
+<a href="http://andreaalaman.github.io/GitHubMiniLesson"> GitHub Mini Lesson </a> 
